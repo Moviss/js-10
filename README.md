@@ -1,4 +1,4 @@
-# JS - Zajęcia #
+# JS - Zajęcia 10 - Prototypy i klasy
 
 ### Jak uruchomić?
 
